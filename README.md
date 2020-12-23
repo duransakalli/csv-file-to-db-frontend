@@ -1,6 +1,5 @@
 # csv-file-to-db-frontend
 
-loading csv file to db
-reading form db to frontend
+loading CSV file to DB reading from DB to frontend
 
 Spring boot, JPA, MySQL, Thymeleaf
